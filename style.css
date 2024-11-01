@@ -1,0 +1,46 @@
+* {
+    margin:4;
+    padding:0;
+    box-sizing: border-box;
+}
+body{ 
+    background-color: aliceblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+
+    
+}
+
+.conteiner{
+    background-color: aliceblue; 
+    display: flex;
+    gap: 30px;
+    
+} 
+img{
+    width:900px ;
+    border-radius: 30px;
+}
+nav ul{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+header h2{
+    /* text-align:center; */
+    text-decoration: none;
+    word-break: 10px;
+    margin-top: 10%;
+    font-weight: 20;
+
+}
+header h3{
+    word-break: 10px;
+    margin-top: 10%;
+    font-weight: 20;
+    text-align: center 100%;
+}
+
+
+
